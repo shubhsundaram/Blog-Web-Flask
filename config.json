@@ -1,0 +1,25 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/eraofcoding",
+    "prod_uri": "mysql://root:@localhost/eraofcoding",
+    "fb_url": "https://facebook.com/eraofcoding",
+    "tw_url": "https://twitter.com/eraofcoding",
+    "gh_url": "https://github.com/eraofcoding",
+    "blog_name": "Coding's Mania ",
+    "tag_line": "A Blog that a programmer needs",
+    "gmail-user": "subham991427@gmail.com",
+    "gmail-password": "Gogain@py9914",
+    "about_text": "Hi my name is subham and i am learning programming using python and applying my knowledge to create websites using python.",
+    "no_of_posts" : 2,
+    "login_image" : "login.svg",
+    "admin_user" : "subham@flask",
+    "admin_password" : "python_geeks",
+    "upload_location": "C:\\Users\\Subham Lohan\\PycharmProjects\\Flask-tut\\static"
+
+  }
+
+
+
+}
