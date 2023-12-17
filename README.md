@@ -17,3 +17,10 @@ This is my "About" section.
 This is my "Contact" section.
 
 ![Screenshot (123)](https://github.com/shubhsundaram/Blog-Web-Flask/assets/108191939/65ef5763-cb3b-4241-897f-28dda7402a40)
+
+there are many other functionalities in my website e.g. 
+1.) you will get a flash message whenever you will enter my website on home page.
+
+2.) you can message me through the message section under contact page where you can send any query to me directly.
+
+3.) you can also view the posts that i have added in my website.
